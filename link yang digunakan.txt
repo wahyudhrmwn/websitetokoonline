@@ -1,0 +1,4 @@
+Bootstrap 5
+
+CSS & JS = https://getbootstrap.com/docs/5.0/getting-started/introduction/
+FontAwesome = https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cdn-webfont
